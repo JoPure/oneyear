@@ -1,0 +1,359 @@
+@-webkit-keyframes slideInLeft {
+    0% {
+        -webkit-transform: translate3d(-100%, 0, 0);
+        -moz-transform: translate3d(-100%, 0, 0);
+        -ms-transform: translate3d(-100%, 0, 0);
+        transform: translate3d(-100%, 0, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@-moz-keyframes slideInLeft {
+    0% {
+        -webkit-transform: translate3d(-100%, 0, 0);
+        -moz-transform: translate3d(-100%, 0, 0);
+        -ms-transform: translate3d(-100%, 0, 0);
+        transform: translate3d(-100%, 0, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@-ms-keyframes slideInLeft {
+    0% {
+        -webkit-transform: translate3d(-100%, 0, 0);
+        -moz-transform: translate3d(-100%, 0, 0);
+        -ms-transform: translate3d(-100%, 0, 0);
+        transform: translate3d(-100%, 0, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@-o-keyframes slideInLeft {
+    0% {
+        -webkit-transform: translate3d(-100%, 0, 0);
+        -moz-transform: translate3d(-100%, 0, 0);
+        -ms-transform: translate3d(-100%, 0, 0);
+        transform: translate3d(-100%, 0, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@keyframes slideInLeft {
+    0% {
+        -webkit-transform: translate3d(-100%, 0, 0);
+        -moz-transform: translate3d(-100%, 0, 0);
+        -ms-transform: translate3d(-100%, 0, 0);
+        transform: translate3d(-100%, 0, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes slideInDown {
+    0% {
+        -webkit-transform: translate3d(0, 60%, 0);
+        -moz-transform: translate3d(0, 60%, 0);
+        -ms-transform: translate3d(0, 60%, 0);
+        transform: translate3d(0, 60%, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@-moz-keyframes slideInDown {
+    0% {
+        -webkit-transform: translate3d(0, 60%, 0);
+        -moz-transform: translate3d(0, 60%, 0);
+        -ms-transform: translate3d(0, 60%, 0);
+        transform: translate3d(0, 60%, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@-ms-keyframes slideInDown {
+    0% {
+        -webkit-transform: translate3d(0, 60%, 0);
+        -moz-transform: translate3d(0, 60%, 0);
+        -ms-transform: translate3d(0, 60%, 0);
+        transform: translate3d(0, 60%, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@-o-keyframes slideInDown {
+    0% {
+        -webkit-transform: translate3d(0, 60%, 0);
+        -moz-transform: translate3d(0, 60%, 0);
+        -ms-transform: translate3d(0, 60%, 0);
+        transform: translate3d(0, 60%, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@keyframes slideInDown {
+    0% {
+        -webkit-transform: translate3d(0, 60%, 0);
+        -moz-transform: translate3d(0, 60%, 0);
+        -ms-transform: translate3d(0, 60%, 0);
+        transform: translate3d(0, 60%, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@-webkit-keyframes slideInRight {
+    0% {
+        -webkit-transform: translate3d(100%, 0, 0);
+        -moz-transform: translate3d(100%, 0, 0);
+        -ms-transform: translate3d(100%, 0, 0);
+        transform: translate3d(100%, 0, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@-moz-keyframes slideInRight {
+    0% {
+        -webkit-transform: translate3d(100%, 0, 0);
+        -moz-transform: translate3d(100%, 0, 0);
+        -ms-transform: translate3d(100%, 0, 0);
+        transform: translate3d(100%, 0, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@-ms-keyframes slideInRight {
+    0% {
+        -webkit-transform: translate3d(100%, 0, 0);
+        -moz-transform: translate3d(100%, 0, 0);
+        -ms-transform: translate3d(100%, 0, 0);
+        transform: translate3d(100%, 0, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@-o-keyframes slideInRight {
+    0% {
+        -webkit-transform: translate3d(100%, 0, 0);
+        -moz-transform: translate3d(100%, 0, 0);
+        -ms-transform: translate3d(100%, 0, 0);
+        transform: translate3d(100%, 0, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+@keyframes slideInRight {
+    0% {
+        -webkit-transform: translate3d(100%, 0, 0);
+        -moz-transform: translate3d(100%, 0, 0);
+        -ms-transform: translate3d(100%, 0, 0);
+        transform: translate3d(100%, 0, 0);
+        opacity: 0
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1
+    }
+}
+
+.section.active .top,
+.section.active .title-item {
+    -webkit-animation: slideInRight 1.8s ease-in-out;
+    -moz-animation: slideInRight 1.8s ease-in-out;
+    -ms-animation: slideInRight 1.8s ease-in-out;
+    animation: slideInRight 1.8s ease-in-out;
+    -webkit-animation-fill-mode: forwards;
+    -moz-animation-fill-mode: forwards;
+    -ms-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+
+.section.active .desc-item,
+.section.active .start-time,
+.section.active .download-box {
+    -webkit-animation: slideInLeft 1.5s ease-in-out;
+    -moz-animation: slideInLeft 1.5s ease-in-out;
+    -ms-animation: slideInLeft 1.5s ease-in-out;
+    animation: slideInLeft 1.5s ease-in-out;
+    -webkit-animation-fill-mode: forwards;
+    -moz-animation-fill-mode: forwards;
+    -ms-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+
+.section.gle .count-p,
+.section.gle .count-desc-2,
+.section.gle .act-p,
+.section.gle .submitBtn,
+.section.gle .charge-bar,
+.section.gle .picImg,
+.section.gle .menu-bar
+{
+    -webkit-animation: slideInLeft 1.8s ease-in-out;
+    -moz-animation: slideInLeft 1.8s ease-in-out;
+    -ms-animation: slideInLeft 1.8s ease-in-out;
+    animation: slideInLeft 1.8s ease-in-out;
+    -webkit-animation-fill-mode: forwards;
+    -moz-animation-fill-mode: forwards;
+    -ms-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+
+
+.section.gle .award-main,
+.section.gle .point-main,
+.section.gle .charge-box,
+.section.gle .lottery,
+.section.gle .act-box
+{
+    -o-transition: all .8s ease-out 1s;
+    -webkit-transition: all .8s ease-out 1s;
+    -moz-transition: all .8s ease-out 1s;
+    -ms-transition: all .8s ease-out 1s;
+    transition: all .8s ease-out 1s
+}
+
+.section.gle .title-01,
+.section.gle .title-02,
+.section.gle .title-03,
+.section.gle .title-04,
+.section.gle .title-05,
+.section.gle .title-06 {
+    -o-transition: all .8s ease-out .6s;
+    -webkit-transition: all .8s ease-out .6s;
+    -moz-transition: all .8s ease-out .6s;
+    -ms-transition: all .8s ease-out .6s;
+    transition: all .8s ease-out .6s
+}
+
+.section.gle .award-main,
+.section.gle .point-main,
+.section.gle .act-box,
+.section.gle .lottery,
+.section.gle .title-01,
+.section.gle .title-02,
+.section.gle .title-03,
+.section.gle .title-04, .section.gle .title-05, .section.gle .title-06,.section.gle .charge-box {
+    -o-transform: translate3d(0, 0, 0);
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+}
+
+.section.ui-anim .award-main,
+.section.ui-anim .point-main,
+.section.ui-anim .lottery,
+.section.ui-anim .charge-box,
+.section.ui-anim .act-box,
+.section.ui-anim .title-01,
+.section.ui-anim .title-02,
+.section.ui-anim .title-03,
+.section.ui-anim .title-04,
+.section.ui-anim .title-05,
+.section.ui-anim .title-06 {
+    -o-transform: translate3d(0, 60px, 0);
+    -webkit-transform: translate3d(0, 60px, 0);
+    -moz-transform: translate3d(0, 60px, 0);
+    -ms-transform: translate3d(0, 60px, 0);
+    transform: translate3d(0, 60px, 0);
+    opacity: 0
+}
